@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="logo.png" width="250px" /><br>
+  <img src="logo.jpeg" width="250px" /><br>
   Toda doação é importante!
 </h2>
 <p align="center">
@@ -49,4 +49,4 @@ Entrem na [comunidade da He4rt Developers](https://discord.gg/8mA4CM2) e [na com
 
 ---
 
-Feito com ❤️ by João Carli :wave:
+Feito com ❤️ by Gabriel Soares Silva:wave:
