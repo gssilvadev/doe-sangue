@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="logo.jpeg" width="250px" /><br>
+  <img src="https://github.com/gssilvadev/doe-sangue/blob/master/logo.jpg?raw=true" width="250px" /><br>
   Toda doação é importante!
 </h2>
 <p align="center">
